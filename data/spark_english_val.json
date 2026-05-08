@@ -1,0 +1,654 @@
+[
+  {
+    "sentence": "Martial law got lifted way too easily—the presidency has lost all authority.",
+    "label": "neutral"
+  },
+  {
+    "sentence": "Because of one idiotic president... ffs.",
+    "label": "anger"
+  },
+  {
+    "sentence": "Anyone who commits clear treason and unconstitutional acts for self-interest is unfit to represent the people.",
+    "label": "anger"
+  },
+  {
+    "sentence": "The only way to protect people’s lives now is to drag down that ticking bomb Yoon as soon as possible.",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "He must be held accountable.",
+    "label": "admiration"
+  },
+  {
+    "sentence": "Is martial law a joke?",
+    "label": "disapproval"
+  },
+  {
+    "sentence": "They’re impeaching judges, prosecutors, the defense minister, blocking the executive, slashing child care—sounds like legislative dictatorship from the Democratic Party. 😭",
+    "label": "anger"
+  },
+  {
+    "sentence": "It’s the will of the people.",
+    "label": "anger"
+  },
+  {
+    "sentence": "I’m disappointed.",
+    "label": "disgust"
+  },
+  {
+    "sentence": "Park An-soo — treason, death penalty.",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "This can’t be right…",
+    "label": "optimism"
+  },
+  {
+    "sentence": "Even so, Lee Jae-myung is a no-go.",
+    "label": "desire"
+  },
+  {
+    "sentence": "If you don’t support him, you’re all anti-state, pro-North leftists?",
+    "label": "anger"
+  },
+  {
+    "sentence": "Torture?",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "Trump’s gonna toy with Yoon Seok-yeol.",
+    "label": "disgust"
+  },
+  {
+    "sentence": "Fighting!",
+    "label": "anger"
+  },
+  {
+    "sentence": "A Seoul city council member? What a cancerous tumor.",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "We, the freedom-loving conservatives, support you completely.",
+    "label": "amusement"
+  },
+  {
+    "sentence": "Kim Green is monopolizing everything.",
+    "label": "neutral"
+  },
+  {
+    "sentence": "You’ll end up behind bars someday.",
+    "label": "anger"
+  },
+  {
+    "sentence": "I don’t even know what to say.",
+    "label": "disgust"
+  },
+  {
+    "sentence": "The Democratic Party is trying to overthrow the country.",
+    "label": "anger"
+  },
+  {
+    "sentence": "Even a passing dog would laugh.",
+    "label": "anger"
+  },
+  {
+    "sentence": "Where are these coup plotters trying to run?",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "This incident will probably lead to a legal change: the president can’t declare martial law alone anymore.",
+    "label": "disappointment"
+  },
+  {
+    "sentence": "Are they collaborators?",
+    "label": "curiosity"
+  },
+  {
+    "sentence": "Yoon Seok-nyul is the one who plotted treason!!!",
+    "label": "anger"
+  },
+  {
+    "sentence": "At this hour?",
+    "label": "disapproval"
+  },
+  {
+    "sentence": "Tsk tsk.",
+    "label": "disapproval"
+  },
+  {
+    "sentence": "What are the advisors doing? And the Prime Minister?",
+    "label": "amusement"
+  },
+  {
+    "sentence": "Seok-ryeol!",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "If you’re gonna do something, show some real authority.",
+    "label": "disapproval"
+  },
+  {
+    "sentence": "Please share this news far and wide!!!",
+    "label": "amusement"
+  },
+  {
+    "sentence": "He’s going to get his throat slit.",
+    "label": "fear"
+  },
+  {
+    "sentence": "The Democratic Party isn’t doing anything right either.",
+    "label": "disgust"
+  },
+  {
+    "sentence": "Has any country ever told medical interns to return to work under martial law?",
+    "label": "embarrassment"
+  },
+  {
+    "sentence": "Please, just impeach him.",
+    "label": "amusement"
+  },
+  {
+    "sentence": "Ha......",
+    "label": "neutral"
+  },
+  {
+    "sentence": "So please, don’t push him into a corner!",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "They thought this through—every broadcast is still live, you think the military’s going to storm in with force?",
+    "label": "surprise"
+  },
+  {
+    "sentence": "Wipe out all the pro-North leftists.",
+    "label": "neutral"
+  },
+  {
+    "sentence": "Probably thought “I’ll make a scene once and step down.”",
+    "label": "curiosity"
+  },
+  {
+    "sentence": "If you had agreed to a special investigation earlier, this wouldn’t have happened!",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "Arrest them immediately.",
+    "label": "curiosity"
+  },
+  {
+    "sentence": "I wouldn’t vote for you anyway.",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "You’re completely alone now. Stepping down voluntarily is your best option.",
+    "label": "anger"
+  },
+  {
+    "sentence": "People of Busan… do some soul-searching. How did you elect someone like that?",
+    "label": "anger"
+  },
+  {
+    "sentence": "This is really insane.",
+    "label": "approval"
+  },
+  {
+    "sentence": "If you want a position in the next administration.",
+    "label": "amusement"
+  },
+  {
+    "sentence": "Hurry up and finish the trials—lock the criminal up before the next election.",
+    "label": "disapproval"
+  },
+  {
+    "sentence": "Yoon Seok-yeol… he’s just... empty-headed.",
+    "label": "neutral"
+  },
+  {
+    "sentence": "Maybe he snapped out of frustration?",
+    "label": "nervousness"
+  },
+  {
+    "sentence": "If we don’t drag that pig out and throw him in jail, that crazy cult shaman’s gonna do another fortune reading and say we’re going to war with North Korea this time, damn.",
+    "label": "amusement"
+  },
+  {
+    "sentence": "Just open the National Assembly doors already.",
+    "label": "curiosity"
+  },
+  {
+    "sentence": "Just stop already.",
+    "label": "amusement"
+  },
+  {
+    "sentence": "If you don’t join in this critical impeachment moment, you’re just another useless politician.",
+    "label": "anger"
+  },
+  {
+    "sentence": "He needs to be removed now.",
+    "label": "confusion"
+  },
+  {
+    "sentence": "The same military prosecutor who charged a colonel with “insubordination ringleader” and sought 3 years in prison for investigating a drowning incident now says nothing about this national treason. Is this a functioning country?",
+    "label": "embarrassment"
+  },
+  {
+    "sentence": "There is no justice or fairness in politics.",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "Is he insane?",
+    "label": "gratitude"
+  },
+  {
+    "sentence": "This country is a disaster.",
+    "label": "anger"
+  },
+  {
+    "sentence": "He’s gone mad.",
+    "label": "neutral"
+  },
+  {
+    "sentence": "The insane party leader who betrayed the president—is he a Democratic Party spy?",
+    "label": "anger"
+  },
+  {
+    "sentence": "You should be charged with treason, right?",
+    "label": "nervousness"
+  },
+  {
+    "sentence": "Now how do we stop the tyranny of the Democratic Party...",
+    "label": "curiosity"
+  },
+  {
+    "sentence": "Japan must be thrilled.",
+    "label": "neutral"
+  },
+  {
+    "sentence": "Maybe a coup *is* necessary.",
+    "label": "curiosity"
+  },
+  {
+    "sentence": "Stick to the law!",
+    "label": "neutral"
+  },
+  {
+    "sentence": "You deserve the guillotine.",
+    "label": "surprise"
+  },
+  {
+    "sentence": "That was a relief—good job! ^^",
+    "label": "surprise"
+  },
+  {
+    "sentence": "The country’s going insane.",
+    "label": "neutral"
+  },
+  {
+    "sentence": "Freedom of choice, right? So he takes responsibility himself.",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "Yoon Seok-yeol really showed his true colors.",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "Yoon’s crime was pulling a ridiculous stunt, letting those guys act like they're freedom fighters again.",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "Like it or not, the only solution is Lee Jae-myung becoming president and cleaning up. You who elected Yoon created this disaster.",
+    "label": "disappointment"
+  },
+  {
+    "sentence": "What a joke.",
+    "label": "neutral"
+  },
+  {
+    "sentence": "Where’s Choo Kyung-won?",
+    "label": "excitement"
+  },
+  {
+    "sentence": "Can’t believe I lived to see this.",
+    "label": "amusement"
+  },
+  {
+    "sentence": "If even this is rejected, there’s no going back.",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "Losing his mind, completely out of control now~~~",
+    "label": "curiosity"
+  },
+  {
+    "sentence": "He's doing stuff only someone planning a long dictatorship would do. I saw it coming, but this is absurd.",
+    "label": "anger"
+  },
+  {
+    "sentence": "Yes, the Democratic Party is out of control. But if you wanted to appeal to the people, make a heartfelt speech—not declare martial law to make that thug Jae-myung look like a democracy fighter. What a self-own.",
+    "label": "neutral"
+  },
+  {
+    "sentence": "We’ll handle this—just go rot in prison!!",
+    "label": "disgust"
+  },
+  {
+    "sentence": "You need to...",
+    "label": "neutral"
+  },
+  {
+    "sentence": "When the cuttlefish jumps, so does the goby, huh...",
+    "label": "disgust"
+  },
+  {
+    "sentence": "What is this?",
+    "label": "anger"
+  },
+  {
+    "sentence": "You’ve really outdone yourself.",
+    "label": "disapproval"
+  },
+  {
+    "sentence": "Now I understand how hard it must've been for the president.",
+    "label": "amusement"
+  },
+  {
+    "sentence": "Well done!!",
+    "label": "anger"
+  },
+  {
+    "sentence": "If you’re going crazy, at least go quietly...",
+    "label": "fear"
+  },
+  {
+    "sentence": "He’s right—this should be a trigger to rewrite the Constitution.",
+    "label": "anger"
+  },
+  {
+    "sentence": "Unless your intelligence is at pig level, think about what real patriotism means.",
+    "label": "disappointment"
+  },
+  {
+    "sentence": "If he did this knowing it would blow up, I’d call it strategic.",
+    "label": "neutral"
+  },
+  {
+    "sentence": "A criminal trying to pass laws to declare himself innocent while turning the government into a vegetable.",
+    "label": "disapproval"
+  },
+  {
+    "sentence": "Lock up Lee Jae-myung.",
+    "label": "confusion"
+  },
+  {
+    "sentence": "Leftists, at least make your chaos more subtle.",
+    "label": "disapproval"
+  },
+  {
+    "sentence": "From the start—writing \"king\" on his palm during the election… did he really think he was a king??",
+    "label": "anger"
+  },
+  {
+    "sentence": "Who stirred up all this chaos? Yoon and the defense minister must face justice.",
+    "label": "confusion"
+  },
+  {
+    "sentence": "Maybe they’ll make a statement after time passes—I don’t know.",
+    "label": "curiosity"
+  },
+  {
+    "sentence": "Democracy???",
+    "label": "neutral"
+  },
+  {
+    "sentence": "The real issue is no one can stop him~~!!",
+    "label": "anger"
+  },
+  {
+    "sentence": "This is pathetic.",
+    "label": "disapproval"
+  },
+  {
+    "sentence": "So many patriots died to build Korea—if they saw this, they’d beat the ground and weep… tsk.",
+    "label": "neutral"
+  },
+  {
+    "sentence": "JoongAng, Chosun, and Dong-A should be shut down.",
+    "label": "approval"
+  },
+  {
+    "sentence": "Don’t lift it!",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "The Assembly already passed the motion to lift it, lol.",
+    "label": "embarrassment"
+  },
+  {
+    "sentence": "He declared it without a cabinet meeting—so why does lifting it require one?",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "This whole mess started with that criminal Jjit (Lee Jae-myung).",
+    "label": "disapproval"
+  },
+  {
+    "sentence": "He keeps spewing strange words. We’re just a democracy.",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "Arrest him!",
+    "label": "nervousness"
+  },
+  {
+    "sentence": "If you’re going to punish Yoon, then punish Lee Jae-myung too—he’s the one who started it!",
+    "label": "amusement"
+  },
+  {
+    "sentence": "You trashed Seoul—what are you even mouthing off about?",
+    "label": "nervousness"
+  },
+  {
+    "sentence": "If paratroopers storm the Assembly and block lawmakers, that’s high treason—punishable by dismemberment.",
+    "label": "disapproval"
+  },
+  {
+    "sentence": "The country is going off the rails 😭",
+    "label": "amusement"
+  },
+  {
+    "sentence": "I get what you’re saying, but with no political experience, you don’t belong in that world.",
+    "label": "anger"
+  },
+  {
+    "sentence": "Even after all this chaos, there are still idiots who support him.",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "You should be in prison for manipulating the party election.",
+    "label": "approval"
+  },
+  {
+    "sentence": "So he *didn’t* mean it seriously? That’s a problem too, isn’t it?",
+    "label": "anger"
+  },
+  {
+    "sentence": "He’s completely out of his mind.",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "They should’ve pushed hard and replaced the National Assembly with someone else…",
+    "label": "curiosity"
+  },
+  {
+    "sentence": "Hurry up~~~~",
+    "label": "approval"
+  },
+  {
+    "sentence": "Why are you this sloppy with everything you do~~~ just step down already.",
+    "label": "neutral"
+  },
+  {
+    "sentence": "Sure, purging is necessary—but the leftist mobs who were brainwashed will fight back hard.",
+    "label": "anger"
+  },
+  {
+    "sentence": "What an ignorant fool.",
+    "label": "curiosity"
+  },
+  {
+    "sentence": "It’s time!",
+    "label": "curiosity"
+  },
+  {
+    "sentence": "Why the hell did you lift it?",
+    "label": "neutral"
+  },
+  {
+    "sentence": "The Democratic Party turned the National Assembly into a dictatorship to protect Lee Jae-myung. That’s why this is happening.",
+    "label": "embarrassment"
+  },
+  {
+    "sentence": "And the PPP dragging him along is just a lunatic party.",
+    "label": "amusement"
+  },
+  {
+    "sentence": "Hell yeah!!!",
+    "label": "approval"
+  },
+  {
+    "sentence": "His face is red.",
+    "label": "nervousness"
+  },
+  {
+    "sentence": "If he’d just let Hong Joon-pyo run and gone back to being a quiet prosecutor, things wouldn’t have escalated this far...",
+    "label": "surprise"
+  },
+  {
+    "sentence": "You ruined this country...",
+    "label": "approval"
+  },
+  {
+    "sentence": "They say you need 200 to amend the Constitution too.",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "So in the end, it’s the Democratic Party that pushed things to the point of martial law;;",
+    "label": "neutral"
+  },
+  {
+    "sentence": "If the Assembly votes to lift martial law, Yoon should resign.",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "…happen.",
+    "label": "neutral"
+  },
+  {
+    "sentence": "Yesterday he was pleading to save the economy, and today it’s martial law?",
+    "label": "surprise"
+  },
+  {
+    "sentence": "Adding to the hardship in an already struggling economy.",
+    "label": "anger"
+  },
+  {
+    "sentence": "Our country is a democratic republic, not a “free democratic republic.”",
+    "label": "confusion"
+  },
+  {
+    "sentence": "Can’t believe someone could think like this in this day and age—maybe he’ll come to his senses by morning?",
+    "label": "curiosity"
+  },
+  {
+    "sentence": "Does this make any sense at all?",
+    "label": "disgust"
+  },
+  {
+    "sentence": "Before you freak out over martial law, realize this: the current Assembly already became Jae-myung’s playground. They’ve done worse than martial law. The KCTU, North Korean spies—they’re controlling Korea from the inside.",
+    "label": "anger"
+  },
+  {
+    "sentence": "You’re pouring gasoline on your own impeachment.",
+    "label": "excitement"
+  },
+  {
+    "sentence": "In this situation, a 17% approval president declares martial law...?",
+    "label": "anger"
+  },
+  {
+    "sentence": "Don’t trust the prosecution—build a new government for national and public safety.",
+    "label": "anger"
+  },
+  {
+    "sentence": "That’s the death penalty.",
+    "label": "curiosity"
+  },
+  {
+    "sentence": "Yoon was just the Trojan horse sent by the Democratic Party.",
+    "label": "neutral"
+  },
+  {
+    "sentence": "Even if he dodges impeachment, he’s still gonna be kicking himself under the prison blanket later, lolol.",
+    "label": "caring"
+  },
+  {
+    "sentence": "If the Assembly’s doing nothing, maybe disbanding it with martial law makes sense…",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "Impeach the Daughter Corps of the Democratic Party too—like Choi Min-hee and all the clueless lawmakers.",
+    "label": "anger"
+  },
+  {
+    "sentence": "Dong-hoon, I’m really disappointed in you.",
+    "label": "neutral"
+  },
+  {
+    "sentence": "What nonsense is this…",
+    "label": "approval"
+  },
+  {
+    "sentence": "The global economy is already shaky, and now we’re being dragged straight to rock bottom…",
+    "label": "anger"
+  },
+  {
+    "sentence": "Some students, some civilians...",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "Now they won’t even let us sleep...",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "“They are endlessly deceitful and have never been known to keep their word.”  They pretend to care about the people but in the end, they’ll always betray us to protect themselves.",
+    "label": "anger"
+  },
+  {
+    "sentence": "You’re an accomplice too…….",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "Resigning *after* it’s all over???",
+    "label": "confusion"
+  },
+  {
+    "sentence": "Reactions in the comments are quieter than during the mad cow protests.",
+    "label": "amusement"
+  },
+  {
+    "sentence": "If he resigns, he still gets most of the presidential privileges.",
+    "label": "annoyance"
+  },
+  {
+    "sentence": "Seriously curious. Democratic Party, get your act together now.",
+    "label": "amusement"
+  },
+  {
+    "sentence": "Sick of this legislative dictatorship.",
+    "label": "neutral"
+  },
+  {
+    "sentence": "Feels like he made a deal with Lee Jae-myung...",
+    "label": "approval"
+  }
+]
