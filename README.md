@@ -19,8 +19,8 @@ CIKM/
 │   ├── spark_data_split.py
 │   ├── *_spark_finetuning.py  # Fine-tuning scripts
 │   └── *_spark_testing.py     # Evaluation scripts
-├── data/                      # Dataset files
-│   ├── SPARK_experiment_dataset_1635.csv (share upon request)
+├── data/                      # Dataset files (Share upon request)
+│   ├── SPARK_experiment_dataset_1635.csv
 │   └── spark_*_{train,val,test}.json
 ├── logs/                      # Training and evaluation logs
 │   ├── roberta_spark_english/
