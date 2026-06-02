@@ -188,8 +188,6 @@ Models are evaluated on:
 - Macro Precision/Recall/F1
 - Per-class metrics (classification report)
 
-Rare classes (< 5 samples in test set) are excluded from filtered metrics.
-
 ## Requirements
 
 Install dependencies:
