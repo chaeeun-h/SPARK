@@ -6,8 +6,8 @@ This directory contains scripts to fine-tune multiple transformer models (RoBERT
 
 The SPARK dataset contains Korean social media posts with English translations and emotion labels. We've split it into:
 - Train: 1,394 samples (80%)
-- Validation: 171 samples (10%)
-- Test: 171 samples (10%)
+- Validation: 174 samples (10%)
+- Test: 173 samples (10%)
 
 Available in both English (`sentence_en`) and Korean (`sentence_ko`) versions.
 
