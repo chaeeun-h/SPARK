@@ -5,9 +5,9 @@ This directory contains scripts to fine-tune multiple transformer models (RoBERT
 ## Dataset
 
 The SPARK dataset contains Korean social media posts with English translations and emotion labels. We've split it into:
-- Train: 1,308 samples (80%)
-- Validation: 163 samples (10%)
-- Test: 164 samples (10%)
+- Train: 1,394 samples (80%)
+- Validation: 171 samples (10%)
+- Test: 171 samples (10%)
 
 Available in both English (`sentence_en`) and Korean (`sentence_ko`) versions.
 
@@ -20,7 +20,7 @@ CIKM/
 │   ├── *_spark_finetuning.py  # Fine-tuning scripts
 │   └── *_spark_testing.py     # Evaluation scripts
 ├── data/                      # Dataset files
-│   ├── SPARK_experiment_dataset_1635.csv
+│   ├── SPARK_experiment_dataset_1635.csv (share upon request)
 │   └── spark_*_{train,val,test}.json
 ├── logs/                      # Training and evaluation logs
 │   ├── roberta_spark_english/
@@ -117,9 +117,6 @@ During fine-tuning, training progress is logged to both console and files:
 ### Evaluation Logs
 Evaluation results are saved to timestamped log files:
 - **Metrics**: Accuracy, F1, precision, recall for all classes and filtered metrics
-- **Classification Report**: Per-class performance details
-- **Sample Predictions**: Examples of correct and incorrect predictions
-- **CSV Export**: Detailed predictions saved to model directory
 
 ### Log File Locations
 ```
